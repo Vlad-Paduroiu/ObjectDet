@@ -9,7 +9,6 @@
 3. Codul trebuie structurat pe o arhitectura OOP
 
 # Modalitate rezolvare
-Am folosit doua modele, YOLOv8l si YOLOv5su pentru detectia in timp real. Am folosit un stream live de la o [camera publica](http://195.196.36.242/mjpg/video.mjpg). ![Diferenta intre modele este doar de capacitatea de procesare, dar puteam folosi EfficientDet, avand in vedere acest grafic.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FComparisons-between-YOLOv5-models-and-EfficientDet-Published-within-author-permission_fig4_354655561&psig=AOvVaw0OdZoF1NeMSEIIW0pH1-2h&ust=1680439671006000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDk4t7biP4CFQAAAAAdAAAAABAE)
-
+Am folosit doua modele, YOLOv8l si YOLOv5su pentru detectia in timp real. Am folosit un stream live de la o [camera publica](http://195.196.36.242/mjpg/video.mjpg).
 
 
